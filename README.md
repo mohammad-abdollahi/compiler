@@ -2,7 +2,7 @@
 
 some compiler exercises
 
-simple calculator using flex 
+basic calculator using flex 
 
 different parsers : 
 part 1 : ll1 - RD 
